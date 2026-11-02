@@ -1,0 +1,6 @@
+fields:
+  name:
+    type: text
+  email:
+    label: E-Mail
+    type: email

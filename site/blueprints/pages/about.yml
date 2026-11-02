@@ -1,0 +1,5 @@
+fields:
+  year:
+    type: text
+  text:
+    type: writer

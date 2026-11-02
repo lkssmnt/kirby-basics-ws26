@@ -1,0 +1,13 @@
+Title: About
+
+----
+
+Year: 2026/2027
+
+----
+
+Text: <p>This is a page for learning Kirby CMS at HFBK Hamburg.</p>
+
+----
+
+Uuid: vcsovv06rwsaxccl
