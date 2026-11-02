@@ -6,5 +6,6 @@ Note that the following folders are not part of this repository:
 - kirby
 - vendor
 
+### Links
 -   **[Kirby Reference](https://getkirby.com/docs/reference)** – Kirby CMS Documentation
 -   **[Kirby YouTube Tutorials](https://www.youtube.com/watch?v=EDVYjxWMecc&list=PLTep5U-3mg9EfgnQ08XDRs4vSOmhw2JWz)** – Kirby CMS YouTube Tutorials Playlist
