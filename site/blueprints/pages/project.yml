@@ -7,6 +7,12 @@ fields:
     type: number
     translate: false
 
+  website:
+    type: url
+
+  textcolor:
+    type: color
+
   gallery:
     type: files
     translate: false
