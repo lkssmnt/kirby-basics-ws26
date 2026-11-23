@@ -1,14 +1,20 @@
 fields:
-  author: 
+  authors:
     type: pages
-    translate: false
+    query: page('artists').children    
 
   year:
     type: number
     translate: false
 
-  website:
-    type: url
+  websites:
+    type: structure
+    fields:
+      title:
+        type: text
+      url:
+        type: url
+
 
   textcolor:
     type: color

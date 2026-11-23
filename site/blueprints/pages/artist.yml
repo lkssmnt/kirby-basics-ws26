@@ -1,0 +1,6 @@
+fields:
+  bio:
+    type: writer
+  
+  email:
+    type: email

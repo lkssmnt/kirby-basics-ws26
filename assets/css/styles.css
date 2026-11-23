@@ -1,12 +1,9 @@
+@import "typography.css";
+
 * {
   color: rgb(42, 199, 118);
 }
 
 img {
   width: 500px;
-}
-
-h1 {
-  color: red;
-  font-size: 100px;
 }
