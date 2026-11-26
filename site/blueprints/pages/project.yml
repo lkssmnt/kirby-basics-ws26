@@ -18,6 +18,7 @@ fields:
 
   textcolor:
     type: color
+    translate: false
 
   gallery:
     type: files

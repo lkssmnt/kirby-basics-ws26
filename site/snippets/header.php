@@ -9,3 +9,25 @@
 </head>
 
 <body>
+
+<nav>
+  <ul>
+
+    <?php foreach($site->nav()->toPages() as $navPage): ?>
+
+    <li>
+      <a href="<?= $navPage->url() ?>"><?= $navPage->title() ?></a>
+    </li>
+
+    <?php endforeach ?>    
+  </ul>
+
+  <ul>
+    <li>
+      <a href="<?= $page->url("de") ?>">DE</a>
+    </li>
+    <li>
+      <a href="<?= $page->url("en") ?>">EN</a>
+    </li>
+  </ul>
+</nav>

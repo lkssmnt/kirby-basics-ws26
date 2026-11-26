@@ -1,0 +1,9 @@
+sections:
+  pages:
+    type: pages
+
+  settings:
+    type: fields
+    fields:
+      nav:
+        type: pages

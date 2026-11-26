@@ -1,12 +1,12 @@
 <?php snippet("header") ?>
 
 <style>
-  .text {
-    color: <?= $page->textcolor() ?>;
+  .text p {
+    color: <?= $page->textcolor() ?>;    
   }
 </style>
 
-<h1><?= $page->title() ?></h1>
+<h1><?= $pag->title() ?></h1>
 <p><?= $page->year() ?></p>
 
 <?php /*

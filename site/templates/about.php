@@ -1,2 +1,0 @@
-<?= $page->year() ?>
-<?= $page->text() ?>

@@ -1,2 +1,6 @@
 <?php snippet("header") ?>
-<p>You’re good to go!!!</p>
+
+<p>Default Template</p>
+
+<?= $page->title() ?>
+<?php echo $page->title() ?>
